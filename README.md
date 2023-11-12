@@ -8,6 +8,3 @@
 
 ⚡ ¡Explora mis repositorios y comparte tus conocimientos para que juntos podamos crecer como comunidad de programadores!
 
-DanielRosalafre/DanielRosalafre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
